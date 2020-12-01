@@ -1,0 +1,6 @@
+#####################################
+##This is file created when the file_writing.erl ius executed and writing/appending the contents into the file.
+##In this case , the input is given as "I am executing the code", so it will be written in the file.
+
+
+I am executing the code 
