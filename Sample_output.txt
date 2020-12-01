@@ -1,0 +1,12 @@
+19> c(file_writing).                
+{ok,file_writing}
+20> file_writing:start("input.txt"). #Here input.txt is the file given as input and it is writing and appending the contents into the file in nextline.
+
+Reading the contents to the given file line by line: input.txt 
+Enter a string: I am executing the code         
+
+Printing the contents of the given file: input.txt 
+ I am executing the code 
+
+ok
+21> 
